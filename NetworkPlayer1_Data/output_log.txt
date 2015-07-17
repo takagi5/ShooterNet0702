@@ -16,7 +16,7 @@ Platform assembly: C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Manag
 Loading C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.073 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -25,5 +25,4 @@ Platform assembly: C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Manag
 Platform assembly: C:\UnityProject\SourcTreeforWindows\NetworkPlayer1_Data\Managed\System.dll (this message is harmless)
 Shader 'Legacy Shaders/Self-Illumin/Diffuse': fallback shader 'Legacy Shaders/Self-Illumin/VertexLit' not found
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1640 -> priority: 1 
-Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:61688}
+  Thread -> id: 1fc0 -> priority: 1 
